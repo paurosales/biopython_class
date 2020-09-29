@@ -16,7 +16,7 @@ CATEGORY
     
 USAGE
 
-    % python reverse-complement.py -i filename 
+    % python reverse-complement.py -i file_name 
     
     example
     
